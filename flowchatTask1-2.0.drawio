@@ -1,6 +1,6 @@
-<mxfile host="www.draw.io" modified="2020-01-21T10:08:08.564Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.117 Safari/537.36" etag="f2qDLKGJNHRgnICSE_2w" version="12.5.5" type="github">
+<mxfile host="www.draw.io" modified="2020-01-21T10:11:40.594Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.117 Safari/537.36" etag="Hofwur8o7KUg_jz3sJ6x" version="12.5.5" type="github">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
-    <mxGraphModel dx="1102" dy="614" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="300" dy="604" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-0"/>
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-1" parent="WIyWlLk6GJQsqaUBKTNV-0"/>
@@ -108,6 +108,16 @@
         <mxCell id="EfqY29eq7TwNeIXBNxIb-42" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="EfqY29eq7TwNeIXBNxIb-33" target="EfqY29eq7TwNeIXBNxIb-41" edge="1">
           <mxGeometry relative="1" as="geometry"/>
         </mxCell>
+        <mxCell id="cah8BzL9Fn36md8GXg67-24" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="EfqY29eq7TwNeIXBNxIb-33" target="EfqY29eq7TwNeIXBNxIb-54">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="525" y="560" as="targetPoint"/>
+            <Array as="points">
+              <mxPoint x="600" y="540"/>
+              <mxPoint x="600" y="360"/>
+              <mxPoint x="655" y="360"/>
+            </Array>
+          </mxGeometry>
+        </mxCell>
         <mxCell id="EfqY29eq7TwNeIXBNxIb-33" value="Take 5 Points from player1&amp;nbsp;" style="whiteSpace=wrap;html=1;aspect=fixed;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="365" y="520" width="80" height="80" as="geometry"/>
         </mxCell>
@@ -187,9 +197,6 @@
         </mxCell>
         <mxCell id="EfqY29eq7TwNeIXBNxIb-70" value="Round = round +1" style="whiteSpace=wrap;html=1;aspect=fixed;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="740" y="550" width="80" height="80" as="geometry"/>
-        </mxCell>
-        <mxCell id="EfqY29eq7TwNeIXBNxIb-69" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=1;entryDx=0;entryDy=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="EfqY29eq7TwNeIXBNxIb-28" target="EfqY29eq7TwNeIXBNxIb-54" edge="1">
-          <mxGeometry relative="1" as="geometry"/>
         </mxCell>
         <mxCell id="EfqY29eq7TwNeIXBNxIb-85" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="EfqY29eq7TwNeIXBNxIb-73" edge="1">
           <mxGeometry relative="1" as="geometry">
