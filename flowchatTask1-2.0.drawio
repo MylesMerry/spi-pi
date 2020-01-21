@@ -1,6 +1,6 @@
-<mxfile host="www.draw.io" modified="2020-01-21T10:22:24.213Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.117 Safari/537.36" etag="k8IXTI0NQr930DUQpjaO" version="12.5.5" type="github">
+<mxfile host="www.draw.io" modified="2020-01-21T10:27:15.822Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.117 Safari/537.36" etag="vJkZsHi2E2lh8Ynry3A6" version="12.5.5" type="github">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
-    <mxGraphModel dx="1296" dy="722" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1654" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1574" dy="877" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1654" pageHeight="1169" background="none" math="0" shadow="1">
       <root>
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-0"/>
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-1" parent="WIyWlLk6GJQsqaUBKTNV-0"/>
@@ -183,6 +183,17 @@
         <mxCell id="EfqY29eq7TwNeIXBNxIb-63" value="T" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="1290" y="675" width="40" height="20" as="geometry"/>
         </mxCell>
+        <mxCell id="cah8BzL9Fn36md8GXg67-54" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.75;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="EfqY29eq7TwNeIXBNxIb-64" target="EfqY29eq7TwNeIXBNxIb-65">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1480" y="460" as="targetPoint"/>
+            <Array as="points">
+              <mxPoint x="1460" y="694"/>
+              <mxPoint x="1460" y="460"/>
+              <mxPoint x="1520" y="460"/>
+              <mxPoint x="1520" y="434"/>
+            </Array>
+          </mxGeometry>
+        </mxCell>
         <mxCell id="EfqY29eq7TwNeIXBNxIb-64" value="Set score 0" style="whiteSpace=wrap;html=1;aspect=fixed;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="1330" y="655" width="80" height="80" as="geometry"/>
         </mxCell>
@@ -190,7 +201,7 @@
           <mxGeometry relative="1" as="geometry"/>
         </mxCell>
         <mxCell id="EfqY29eq7TwNeIXBNxIb-65" value="Give player 2 10 points" style="whiteSpace=wrap;html=1;aspect=fixed;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="1420" y="395" width="80" height="80" as="geometry"/>
+          <mxGeometry x="1550" y="375" width="80" height="80" as="geometry"/>
         </mxCell>
         <mxCell id="EfqY29eq7TwNeIXBNxIb-74" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="EfqY29eq7TwNeIXBNxIb-70" target="EfqY29eq7TwNeIXBNxIb-73" edge="1">
           <mxGeometry relative="1" as="geometry">
@@ -200,7 +211,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="EfqY29eq7TwNeIXBNxIb-70" value="Round = round +1" style="whiteSpace=wrap;html=1;aspect=fixed;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="1400" y="543.88" width="80" height="80" as="geometry"/>
+          <mxGeometry x="1550" y="560" width="80" height="80" as="geometry"/>
         </mxCell>
         <mxCell id="EfqY29eq7TwNeIXBNxIb-85" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="EfqY29eq7TwNeIXBNxIb-73" edge="1">
           <mxGeometry relative="1" as="geometry">
@@ -248,6 +259,9 @@
         </mxCell>
         <mxCell id="cah8BzL9Fn36md8GXg67-10" value="winner = player with the highest score" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="300" y="860" width="80" height="80" as="geometry"/>
+        </mxCell>
+        <mxCell id="cah8BzL9Fn36md8GXg67-56" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="cah8BzL9Fn36md8GXg67-12" target="cah8BzL9Fn36md8GXg67-55">
+          <mxGeometry relative="1" as="geometry"/>
         </mxCell>
         <mxCell id="cah8BzL9Fn36md8GXg67-12" value="print(&#39;the winner is&quot; +winner)" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="410" y="870" width="150" height="60" as="geometry"/>
@@ -312,6 +326,9 @@
         </mxCell>
         <mxCell id="cah8BzL9Fn36md8GXg67-42" value="Player 2 rolls one more time and then add score to total" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="800" y="385" width="80" height="80" as="geometry"/>
+        </mxCell>
+        <mxCell id="cah8BzL9Fn36md8GXg67-55" value="Save score to the database" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="610" y="860" width="80" height="80" as="geometry"/>
         </mxCell>
       </root>
     </mxGraphModel>
