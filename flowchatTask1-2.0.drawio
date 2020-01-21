@@ -1,6 +1,6 @@
-<mxfile host="www.draw.io" modified="2020-01-21T10:34:35.131Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.117 Safari/537.36" etag="J8jqkuqRswvnnLbmRKXI" version="12.5.5" type="github">
+<mxfile host="www.draw.io" modified="2020-01-21T10:35:47.481Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.117 Safari/537.36" etag="Ah9qNk6H77IL_oG5IbvW" version="12.5.5" type="github">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
-    <mxGraphModel dx="1837" dy="1023" grid="1" gridSize="20" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1654" pageHeight="1169" background="#FFFFCC" math="0" shadow="1">
+    <mxGraphModel dx="1296" dy="722" grid="1" gridSize="20" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1654" pageHeight="1169" background="#FFFFCC" math="0" shadow="1">
       <root>
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-0"/>
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-1" parent="WIyWlLk6GJQsqaUBKTNV-0"/>
@@ -328,7 +328,16 @@
           <mxGeometry x="800" y="385" width="80" height="80" as="geometry"/>
         </mxCell>
         <mxCell id="cah8BzL9Fn36md8GXg67-55" value="Save score to the database" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="610" y="860" width="80" height="80" as="geometry"/>
+          <mxGeometry x="640" y="860" width="80" height="80" as="geometry"/>
+        </mxCell>
+        <mxCell id="cah8BzL9Fn36md8GXg67-57" value="" style="endArrow=classic;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="cah8BzL9Fn36md8GXg67-55">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="720" y="950" as="sourcePoint"/>
+            <mxPoint x="790.7106781186548" y="900" as="targetPoint"/>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="cah8BzL9Fn36md8GXg67-58" value="if users score is" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="800" y="860" width="80" height="80" as="geometry"/>
         </mxCell>
       </root>
     </mxGraphModel>
